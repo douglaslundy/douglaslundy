@@ -1,4 +1,5 @@
 👋 Olá! Sou Douglas.
+
 Bacharel em Sistemas de Informação, formado em 2015 pelo Centro Universitário do Sul de Minas Gerais (UNIS-MG). Ao longo dos anos, me dediquei a desenvolver projetos pessoais e sob demanda de clientes, adquirindo sólida experiência em tecnologias como C#, PHP, Laravel, ReactJS e NextJS.
 
 🚀 Em 2021, abracei um novo desafio como responsável pelo setor de regulação na Secretaria Municipal de Saúde. Neste papel, apliquei minha experiência em tecnologia de forma significativa, desenvolvendo aplicações focadas na coleta e tratamento de dados de saúde e epidemiológicos.
