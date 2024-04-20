@@ -1,10 +1,9 @@
-Professional Specializing in Web and Desktop, Front and Back End, Mobile, Java, PHP, C # software solutions. It is always in search of knowledge, following the needs of the technological market.
+👋 Olá! Sou Bacharel em Sistemas de Informação, formado em 2015 pelo Centro Universitário do Sul de Minas Gerais (UNIS-MG). Ao longo dos anos, me dediquei a desenvolver projetos pessoais e sob demanda de clientes, adquirindo sólida experiência em tecnologias como C#, PHP, Laravel, ReactJS e NextJS.
 
-Main Technologies:
-- Java, PHP, C #
-- React / React Native
-- Laravel, Spring, Spring MVC, .Net
- - Databases: Postgresql, Sqlserver, Mysql, MongoDB.
-- Web servers and applications: Tomcat.
-- Version Control: Git.
-- Front End Technologies: HTML5, CSS3, Jquery and Javascript
+🚀 Em 2021, abracei um novo desafio como responsável pelo setor de regulação na Secretaria Municipal de Saúde. Neste papel, apliquei minha experiência em tecnologia de forma significativa, desenvolvendo aplicações focadas na coleta e tratamento de dados de saúde e epidemiológicos.
+
+📊 Inspirado pelo impacto do meu trabalho e movido por uma curiosidade incessante, no início de 2024 mergulhei de cabeça no campo de dados. Iniciei minha formação especializada na DNC, descobrindo o poder transformador dos dados. Aprendi a extrair insights e gerar valor a partir de grandes volumes de informação, o que reforçou minha crença de que trabalhar com dados é tanto mágico quanto gratificante.
+
+💡 Atualmente, estou focado em evoluir como Analista de Dados e Cientista de Dados. Minhas habilidades incluem SQL, Python, Business Intelligence, CRISP-DM, Looker Studio e Machine Learning.
+
+🔗 Vamos conectar! Estou sempre aberto a colaborar em projetos inovadores e desafiadores.
