@@ -7,3 +7,6 @@
 💡 Atualmente, estou focado em evoluir como Analista de Dados e Cientista de Dados. Minhas habilidades incluem SQL, Python, Business Intelligence, CRISP-DM, Looker Studio e Machine Learning.
 
 🔗 Vamos conectar! Estou sempre aberto a colaborar em projetos inovadores e desafiadores.
+
+[![ReactJS](https://img.shields.io/badge/react-v17.0.2-blue.svg)](https://reactjs.org/)
+[![PHP](https://img.shields.io/badge/php-%5E7.4-blue.svg)](https://php.net/)
