@@ -13,4 +13,5 @@
 Sinta-se livre para entrar em contato através das seguintes plataformas:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Douglas%20Lundy-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/douglaslundy/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B55%2035%20984297193-green?style=flat-square&logo=whatsapp)](https://wa.me/5535984297193)
 [![Gmail](https://img.shields.io/badge/Gmail-douglaslundy%40gmail.com-red?style=flat-square&logo=gmail)](mailto:douglaslundy@gmail.com)
