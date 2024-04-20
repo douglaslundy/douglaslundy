@@ -8,5 +8,9 @@
 
 🔗 Vamos conectar! Estou sempre aberto a colaborar em projetos inovadores e desafiadores.
 
-[![ReactJS](https://img.shields.io/badge/react-v17.0.2-blue.svg)](https://reactjs.org/)
-[![PHP](https://img.shields.io/badge/php-%5E7.4-blue.svg)](https://php.net/)
+# Entre em Contato
+
+Sinta-se livre para entrar em contato através das seguintes plataformas:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Douglas%20Lundy-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/douglaslundy/)
+[![Gmail](https://img.shields.io/badge/Gmail-douglaslundy%40gmail.com-red?style=flat-square&logo=gmail)](mailto:douglaslundy@gmail.com)
